@@ -1,5 +1,4 @@
 Pizza Sales Dashboard Overview:
-![10368964_723997880991220_3968949519396482048_o](https://github.com/subhambarma/Pizzas-Sales/assets/42974892/2a1944f7-d1eb-434e-821d-3c612bc12dde)
 
 Welcome to the "Pizza Sales" dashboard, a comprehensive and visually engaging representation of your pizza sales data. This Power BI dashboard has been meticulously designed to provide you with actionable insights into your pizza business, enabling you to make informed decisions and drive growth.
 
